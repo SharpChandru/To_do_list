@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "earn money"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "give money"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "learning react"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "practice javascript"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "aptitude"
+    }
+  ]
+}
